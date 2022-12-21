@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://www2.ic.uff.br/~medialab/">Medialab</a> MEDIALAB</h2>
+<h2>Hey 👋, I'm <a href="https://www2.ic.uff.br/~medialab/">Medialab</a></h2>
 
 
  <p>👀 Medialab is an interdisciplinary space, dedicated for teaching, research and start up of new ideas, projects and companies in digital medias,
