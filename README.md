@@ -13,11 +13,3 @@
 <li>👨‍💻</li><li>📝</li><li>💬</li><li>📙</li><li>🎉</li>
 </ul>
 
-- 🌱 I’m currently learning #GAMES, #MACHINE LEARNING, #CUDA, #GPU, #IA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-estebanclua/estebanclua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
